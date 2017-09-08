@@ -19,7 +19,7 @@ When I’m working on different features at the same time.
 
 How do the diagrams help you visualize the branch structure?
 
-Visual organization
+I can visually organize the file structure. It's easier to understand the masters, branches and commits history through time.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
